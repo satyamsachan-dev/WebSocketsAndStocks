@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This porject is deploye don Heroku. You can see it here:- http://websocketsandstocks.herokuapp.com/
 
 ## Available Scripts
 
