@@ -1,0 +1,28 @@
+
+.container{
+  margin-top: 30px !important;
+  margin-bottom: 20px !important;
+}
+
+#stocks_list .card-content{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#stocks_list table, tr,th,td{
+  /* width: 30%; */
+  margin: 3px;
+  border: 1px solid #C0C0C0;
+  border-collapse: collapse;
+}
+
+.red{
+  background: red;
+}
+
+.green{
+  background: green;
+}
+
+td.updated_at{
+  font-size: 12px;
+}
